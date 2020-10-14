@@ -47,3 +47,4 @@ During the extraction, the number of trials was set to 100 while a regularizatio
 performance ratio of 0.3, set by trial and error, was used in order to diminish the variance of
 the solutions. Open and closed loop results are shown below
 
+![extractionResults (2)](https://user-images.githubusercontent.com/40301612/96040126-b23eaa80-0e61-11eb-84a3-aadaf2d442f0.png)
